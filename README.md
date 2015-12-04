@@ -13,7 +13,7 @@ This solution allows to determine which user is currently logged into Synapse th
 
 ## Usage
 
-To create a new Shiny application based on this structure, do *not* fork this repository directly on GitHub. Instead, please use GitHub's importer following the instructions [below](#creating-a-repository).
+To create a new Shiny application based on this structure, do *not* fork this repository directly on GitHub. Instead, please use GitHub's importer following the instructions [below](#creating-a-new-shiny-app-repository).
  
 ### Creating a New Shiny App Repository
 
